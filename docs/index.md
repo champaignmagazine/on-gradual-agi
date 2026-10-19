@@ -22,7 +22,8 @@ with GPT-6.1 Sol and Claude Opus 5.5
 **First Edition · Version 1.0 · October 2026**
 
 [Start reading](reader-guide.md){ .md-button .md-button--primary }
-[Download the PDF](https://github.com/champaignmagazine/on-gradual-agi/releases/latest){ .md-button }
+[Download the PDF](https://github.com/champaignmagazine/on-gradual-agi/releases/download/v1.0/On_Gradual_AGI_v1.0.pdf){ .md-button }
+[All formats (PDF, Word, figure)](https://github.com/champaignmagazine/on-gradual-agi/releases/latest){ .md-button }
 
 </div>
 </div>

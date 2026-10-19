@@ -9,7 +9,8 @@
 ## Read
 
 - **Online:** <https://champaignmagazine.github.io/on-gradual-agi/>, searchable, with chapter navigation
-- **PDF and Word:** see [Releases](https://github.com/champaignmagazine/on-gradual-agi/releases/latest). Each version has the complete PDF, the Word master and the full-resolution Figure 12.1
+- **PDF:** [On_Gradual_AGI_v1.0.pdf](https://github.com/champaignmagazine/on-gradual-agi/releases/download/v1.0/On_Gradual_AGI_v1.0.pdf) (direct download)
+- **All formats:** [latest release](https://github.com/champaignmagazine/on-gradual-agi/releases/latest), with the complete PDF, the Word master and the full-resolution Figure 12.1
 
 ## Contents
 
