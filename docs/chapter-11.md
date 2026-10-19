@@ -1,6 +1,6 @@
 # Chapter 11 — Feedback, Recursion, and Ongoing Transformation
 
-Edition source note. This book-review edition adds September–October 2026 source-checked snapshots on mathematical verification, journal publication and professional response, a foundation–laboratory funding partnership for the evaluation of AI-assisted results, government evaluation and reporting proposals, embedded-evaluator arrangements, the Australian incident chronology, scaffolded replication experiments, and research-agent and quantum-circuit cases through October 16 that bound the RSI classification. Source types and verification limits remain explicit; these additions do not promote a frozen empirical verdict or demonstrate autonomous recursive self-improvement.
+Edition source note. This edition adds September–October 2026 source-checked snapshots on mathematical verification, journal publication and professional response, a foundation–laboratory funding partnership for the evaluation of AI-assisted results, government evaluation and reporting proposals, embedded-evaluator arrangements, the Australian incident chronology, scaffolded replication experiments, and research-agent and quantum-circuit cases through October 16 that bound the RSI classification. Source types and verification limits remain explicit; these additions do not promote a frozen empirical verdict or demonstrate autonomous recursive self-improvement.
 
 ## Abstract
 

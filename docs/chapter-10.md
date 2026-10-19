@@ -1,6 +1,6 @@
 # Chapter 10 — Observation, Evidence, and Epistemic Discipline
 
-Edition source note. This book-review edition retains Chapter 10’s publication antecedent and adds the October 9, 2026 Anthropic report and its October 12 correction in §10.3. The source cutoff remains identified in §10.9.5; inclusion does not independently validate the reported incidents or remediation.
+Edition source note. This edition retains Chapter 10’s publication antecedent and adds the October 9, 2026 Anthropic report and its October 12 correction in §10.3. The source cutoff remains identified in §10.9.5; inclusion does not independently validate the reported incidents or remediation.
 
 ## Chapter 10 Reader Guide
 

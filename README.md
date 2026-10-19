@@ -4,12 +4,12 @@
 
 *On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change through availability, exposure and domain conditions, and how optimization, governance, participation, evidence and feedback shape that path. Every claim carries an explicit status, and the book states what would count against it.
 
-> **Status:** external-review edition **v0.9.34** (October 2026). The First Edition (v1.0) is in preparation. Until then, page numbers and wording may still change.
+> **First Edition, version 1.0** (October 18, 2026). Digital edition: PDF and online. The print edition is in production.
 
 ## Read
 
 - **Online:** <https://champaignmagazine.github.io/on-gradual-agi/>, searchable, with chapter navigation
-- **PDF and Word:** see [Releases](https://github.com/champaignmagazine/on-gradual-agi/releases). Each version has the complete PDF, the Word master and the full-resolution Figure 12.1
+- **PDF and Word:** see [Releases](https://github.com/champaignmagazine/on-gradual-agi/releases/latest). Each version has the complete PDF, the Word master and the full-resolution Figure 12.1
 
 ## Contents
 
@@ -25,7 +25,11 @@
 
 GitHub's **"Cite this repository"** button (from [`CITATION.cff`](CITATION.cff)) gives APA and BibTeX. In short:
 
-> W.H.L. (2026). *On Gradual AGI* (Version 0.9.34). Champaign Magazine. https://github.com/champaignmagazine/on-gradual-agi
+> W.H.L. (2026). *On Gradual AGI* (First Edition, Version 1.0). Champaign Magazine. https://github.com/champaignmagazine/on-gradual-agi
+
+## Code
+
+[`code/`](code/) reproduces the book's calculations: the Chapter 5 synchronization recurrence, regimes and threshold results; the Chapter 6 selection rules; and the Chapter 9 Frame One counts and rate-ratio interval. Each is checked against the values printed in the book. Run `python -m gradual_agi` from `code/`; no dependencies are needed.
 
 ## Versions and corrections
 
@@ -43,6 +47,7 @@ docs/media/    figures; Figure 12.1 is also provided at full resolution
 mkdocs.yml     online-edition configuration (MkDocs Material)
 .github/       workflow that publishes the online edition to GitHub Pages
 tools/         scripts that regenerate docs/ from the Word master
+code/          Python reference implementations of the Chapter 5, 6 and 9 calculations, with tests
 CITATION.cff   citation metadata
 REVISIONS.md   post-publication revision record
 LICENSE        Creative Commons Attribution 4.0 International
@@ -54,6 +59,6 @@ The Word master is the authoritative text. The Markdown here is generated from i
 
 The book's content is licensed under [CC BY 4.0](LICENSE), except where separately credited or otherwise indicated. Third-party material remains subject to its own rights and notices. Attribution: *W.H.L. On Gradual AGI. First Edition. Champaign Magazine, 2026. Licensed under CC BY 4.0.*
 
-The scripts in `tools/` are released under the [MIT License](tools/LICENSE).
+The code in `code/` and `tools/` is released under the MIT License ([code/LICENSE](code/LICENSE), [tools/LICENSE](tools/LICENSE)).
 
 The AI systems credited in the book contributed under W.H.L.'s direction. No copyright is claimed on their behalf; see *Contributors and AI Collaboration*.

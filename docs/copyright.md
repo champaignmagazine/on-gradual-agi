@@ -8,6 +8,6 @@ Except where separately credited or otherwise indicated, the book content is mad
 
 **Attribution.** When sharing or adapting this work under the license, credit it as: W.H.L. *On Gradual AGI*. First Edition. *Champaign Magazine*, 2026. Licensed under CC BY 4.0. Provide a link to the license and indicate whether changes were made.
 
-**Version.** This copy is version \[1.0\]. Corrections and updates made after publication are listed in the Revision Record (Part IV) and at \[URL\].
+**Version.** This copy is version 1.0 (October 2026). Corrections and updates made after publication are listed in the Revision Record (Part IV) and online at [https://champaignmagazine.github.io/on-gradual-agi/revision-record/](https://champaignmagazine.github.io/on-gradual-agi/revision-record/). The online edition, PDF releases and source files are at [https://github.com/champaignmagazine/on-gradual-agi](https://github.com/champaignmagazine/on-gradual-agi).
 
 Cover art and design: front cover, back cover and spine created with OpenAI’s image-generation tools, under the direction of W.H.L.

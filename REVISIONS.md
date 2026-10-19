@@ -8,7 +8,7 @@ This file mirrors the book's Revision Record (Part IV). It lists every change ma
 
 | Version | Date | Type | Location | Change | Reason | Status effect |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | *forthcoming* | Baseline | Whole book | First published edition | — | Statuses as recorded in the Claims and Status Register at publication |
+| 1.0 | October 18, 2026 | Baseline | Whole book | First published edition | — | Statuses as recorded in the Claims and Status Register at publication |
 
 ## Before 1.0
 
@@ -16,4 +16,5 @@ Pre-publication assemblies (v0.9.x) went through successive rounds of AI-assiste
 
 | Version | Date | Note |
 | --- | --- | --- |
-| 0.9.34 | 2026-10-18 | External-review edition; first version published in this repository |
+| 0.9.34 | 2026-10-18 | Publication candidate; first version placed in this repository |
+| 1.0 | 2026-10-18 | First Edition: edition labels, version line, online Revision Record and repository links; no change to any claim's status |

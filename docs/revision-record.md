@@ -6,8 +6,8 @@ This record lists every change made to the book after its first publication as v
 
 **Status changes.** An entry that changes a claim’s standing says so in its last column, and the change is mirrored in the Claims and Status Register. No claim’s status changes without an entry here.
 
-**Where to find the current record.** The online version at \[URL\] is maintained between printings. Each printing reproduces the record as of its date.
+**Where to find the current record.** The online version at [https://champaignmagazine.github.io/on-gradual-agi/revision-record/](https://champaignmagazine.github.io/on-gradual-agi/revision-record/) is maintained between printings. Each printing reproduces the record as of its date.
 
-| Version | Date                 | Type     | Location   | Change                  | Reason | Status effect                                                         |
-|---------|----------------------|----------|------------|-------------------------|--------|-----------------------------------------------------------------------|
-| 1.0     | \[publication date\] | Baseline | Whole book | First published edition | —      | Statuses as recorded in the Claims and Status Register at publication |
+| Version | Date             | Type     | Location   | Change                  | Reason | Status effect                                                         |
+|---------|------------------|----------|------------|-------------------------|--------|-----------------------------------------------------------------------|
+| 1.0     | October 18, 2026 | Baseline | Whole book | First published edition | —      | Statuses as recorded in the Claims and Status Register at publication |

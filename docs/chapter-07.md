@@ -1,6 +1,6 @@
 # Chapter 7 — Governance: Contesting Realization
 
-Edition source note. This review edition includes the Chapter 7 revision recorded as v1.3, including §7.3.10 and its March 11 and March 14, 2025 antecedents. The published antecedent is Publication Version v1.0, September 12, 2026. Inclusion here does not promote the revision to publication status.
+Edition source note. This edition includes the Chapter 7 revision recorded as v1.3, including §7.3.10 and its March 11 and March 14, 2025 antecedents. The published antecedent is Publication Version v1.0, September 12, 2026. The v1.3 revision is first published in this edition; publication does not change the evidentiary status of any claim in it.
 
 ## Abstract
 
