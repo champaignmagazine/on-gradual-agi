@@ -1,0 +1,7 @@
+.md-typeset img { max-width: 100%; height: auto; }
+.md-typeset table:not([class]) { font-size: .72rem; }
+.md-typeset table:not([class]) td, .md-typeset table:not([class]) th { vertical-align: top; }
+.cover-row { display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; }
+.cover-row > div { flex: 1 1 18rem; }
+.cover { width: 15rem; max-width: 100%; box-shadow: 0 2px 12px rgba(0,0,0,.25); border-radius: 2px; }
+.md-typeset .arithmatex { overflow-x: auto; }

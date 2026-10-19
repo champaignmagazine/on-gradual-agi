@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or refer to this book, please cite it as below."
+title: "On Gradual AGI"
+abstract: "A framework for artificial general intelligence as a gradual, ongoing transformation: the Multi-Plateau Framework and the Unified Gradual AGI Model."
+authors:
+  - name: "W.H.L."
+version: "0.9.34"
+date-released: "2026-10-18"
+license: CC-BY-4.0
+repository-code: "https://github.com/champaignmagazine/on-gradual-agi"
+url: "https://champaignmagazine.github.io/on-gradual-agi/"
+keywords:
+  - artificial general intelligence
+  - AGI
+  - gradual AGI
+  - AI governance
+  - technology and society
+preferred-citation:
+  type: book
+  title: "On Gradual AGI"
+  authors:
+    - name: "W.H.L."
+  publisher:
+    name: "Champaign Magazine"
+  year: 2026
+  edition: "First Edition (external-review version 0.9.34)"
+  url: "https://github.com/champaignmagazine/on-gradual-agi"
+  license: CC-BY-4.0
