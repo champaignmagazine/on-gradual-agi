@@ -6,7 +6,14 @@ authors:
   - name: "W.H.L."
 version: "1.0.1"
 date-released: "2026-10-20"
-doi: "10.5281/zenodo.23492360"
+doi: "10.5281/zenodo.23492359"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23492359"
+    description: "All versions (always resolves to the latest)"
+  - type: doi
+    value: "10.5281/zenodo.23492360"
+    description: "Version 1.0.1"
 license: CC-BY-4.0
 repository-code: "https://github.com/champaignmagazine/on-gradual-agi"
 url: "https://champaignmagazine.github.io/on-gradual-agi/"
@@ -25,6 +32,6 @@ preferred-citation:
     name: "Champaign Magazine"
   year: 2026
   edition: "First Edition"
-  doi: "10.5281/zenodo.23492360"
+  doi: "10.5281/zenodo.23492359"
   url: "https://github.com/champaignmagazine/on-gradual-agi"
   license: CC-BY-4.0

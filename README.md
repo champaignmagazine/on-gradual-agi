@@ -1,6 +1,6 @@
 # On Gradual AGI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23492360.svg)](https://doi.org/10.5281/zenodo.23492360)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23492359.svg)](https://doi.org/10.5281/zenodo.23492359)
 [![Calculation tests](https://github.com/champaignmagazine/on-gradual-agi/actions/workflows/tests.yml/badge.svg)](https://github.com/champaignmagazine/on-gradual-agi/actions/workflows/tests.yml)
 
 **W.H.L.**, with GPT-6.1 Sol and Claude Opus 5.5 · *Champaign Magazine* · First Edition, 2026
@@ -39,9 +39,9 @@ On macOS and Linux, each file you downloaded should report `OK`; files you didn'
 
 GitHub's **"Cite this repository"** button (from [`CITATION.cff`](CITATION.cff)) gives APA and BibTeX. In short:
 
-> W.H.L. (2026). *On Gradual AGI* (First Edition, Version 1.0.1). Champaign Magazine. https://doi.org/10.5281/zenodo.23492360
+> W.H.L. (2026). *On Gradual AGI* (First Edition, Version 1.0.1). Champaign Magazine. https://doi.org/10.5281/zenodo.23492359
 
-The book is archived on [Zenodo](https://doi.org/10.5281/zenodo.23492360), which issues a DOI for each release.
+The book is archived on [Zenodo](https://doi.org/10.5281/zenodo.23492359). That DOI always points to the latest version; each version also has its own, e.g. version 1.0.1: [10.5281/zenodo.23492360](https://doi.org/10.5281/zenodo.23492360).
 
 ## Code
 
