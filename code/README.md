@@ -8,6 +8,8 @@ python -m gradual_agi                       # print the numbers the book reports
 python -m unittest discover -s tests -v     # 28 checks against the printed values
 ```
 
+To install it as a package (Python 3.9+), run `pip install ./code` from the repository root, then `python -m gradual_agi` from anywhere.
+
 | Module | Chapter | What it implements | Checked against the book |
 | --- | --- | --- | --- |
 | `gradual_agi/cfs.py` | 5 Synchronization | gap, Slope, baseline recurrence `G(t+1) = α + (1 − β)G(t)`, steady state `G* = α/β`, regimes 0–5 and the marginal boundary at β = 2, the illustrative β(G) form, threshold activation share and its exact logistic expectation, gated Floor, delay decomposition, two-anchor Slope annualization | §5.3 worked example (4 → 3 → 2.5 → 2.25 → 2); Table 5.1; §5.4 logistic result; §5.8 professional Go calibration (≈15–17% per year) |

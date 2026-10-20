@@ -1,5 +1,7 @@
 # On Gradual AGI
 
+[![Calculation tests](https://github.com/champaignmagazine/on-gradual-agi/actions/workflows/tests.yml/badge.svg)](https://github.com/champaignmagazine/on-gradual-agi/actions/workflows/tests.yml)
+
 **W.H.L.**, with GPT-6.1 Sol and Claude Opus 5.5 · *Champaign Magazine* · First Edition, 2026
 
 *On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change through availability, exposure and domain conditions, and how optimization, governance, participation, evidence and feedback shape that path. Every claim carries an explicit status, and the book states what would count against it.
@@ -22,6 +24,16 @@
 | III. Mediation | 7 Governance: Contesting Realization · 8 Participation: Subjects, Acts, and Consequences · 9 Participation: What Survives Empirical Contact · 10 Observation, Evidence, and Epistemic Discipline · 11 Feedback, Recursion, and Ongoing Transformation |
 | IV. Integration | 12 The Unified Gradual AGI Model · Glossary · Full Notation Guide · Claims and Status Register · Revision Record · Unified References |
 
+## Verify your download
+
+Each release includes `SHA256SUMS.txt`, listing the SHA-256 checksum of every file. Download it into the same folder as the book files, then run:
+
+- **macOS:** `shasum -a 256 -c SHA256SUMS.txt`
+- **Linux:** `sha256sum -c SHA256SUMS.txt`
+- **Windows (PowerShell):** `Get-FileHash On_Gradual_AGI_v1.0.pdf -Algorithm SHA256`, then compare the result with the line for that file in `SHA256SUMS.txt`
+
+On macOS and Linux, each file you downloaded should report `OK`; files you didn't download are reported as missing, which is fine. GitHub also shows each file's checksum on the release page.
+
 ## Cite
 
 GitHub's **"Cite this repository"** button (from [`CITATION.cff`](CITATION.cff)) gives APA and BibTeX. In short:
@@ -30,7 +42,7 @@ GitHub's **"Cite this repository"** button (from [`CITATION.cff`](CITATION.cff))
 
 ## Code
 
-[`code/`](code/) reproduces the book's calculations: the Chapter 5 synchronization recurrence, regimes and threshold results; the Chapter 6 selection rules; and the Chapter 9 Frame One counts and rate-ratio interval. Each is checked against the values printed in the book. Run `python -m gradual_agi` from `code/`; no dependencies are needed.
+[`code/`](code/) reproduces the book's calculations: the Chapter 5 synchronization recurrence, regimes and threshold results; the Chapter 6 selection rules; and the Chapter 9 Frame One counts and rate-ratio interval. Each is checked against the values printed in the book. Run `python -m gradual_agi` from `code/`; no dependencies are needed. To install it as a package instead, run `pip install ./code` from the repository root. The tests run automatically on every change (badge above).
 
 ## Versions and corrections
 
