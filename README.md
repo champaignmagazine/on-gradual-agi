@@ -5,7 +5,7 @@
 
 **W.H.L.**, with GPT-6.1 Sol and Claude Opus 5.5 · *Champaign Magazine* · First Edition, 2026
 
-*On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change through availability, exposure and domain conditions, and how optimization, governance, participation, evidence and feedback shape that path. Every claim carries an explicit status, and the book states what would count against it.
+*On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change through availability, exposure and domain conditions, and how optimization, governance, participation, evidence and feedback shape that path. The book distinguishes claim types, records the evidentiary standing of its principal claims, and specifies tests, limitations, and failure conditions where applicable.
 
 > **First Edition, version 1.0.1** (October 20, 2026; first published as 1.0 on October 18, 2026). Digital edition: PDF and online. The print edition is in production.
 
@@ -13,7 +13,7 @@
 
 - **Online:** <https://champaignmagazine.github.io/on-gradual-agi/>, searchable, with chapter navigation
 - **PDF:** [On_Gradual_AGI_v1.0.1.pdf](https://github.com/champaignmagazine/on-gradual-agi/releases/download/v1.0.1/On_Gradual_AGI_v1.0.1.pdf) (direct download)
-- **All formats:** [latest release](https://github.com/champaignmagazine/on-gradual-agi/releases/latest), with the complete PDF, the Word master and the full-resolution Figure 12.1
+- **All formats:** [latest release](https://github.com/champaignmagazine/on-gradual-agi/releases/latest), with the complete PDF, the Word master, the full-resolution Figure 12.1, the cover wrap and the front cover, and a checksum file
 
 ## Contents
 

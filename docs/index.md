@@ -17,7 +17,7 @@ with GPT-6.1 Sol and Claude Opus 5.5
 
 *Champaign Magazine* · First Edition, 2026
 
-*On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change, and how optimization, governance, participation, evidence and feedback shape that path. Every claim carries an explicit status, and the book states what would count against it.
+*On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change, and how optimization, governance, participation, evidence and feedback shape that path. The book distinguishes claim types, records the evidentiary standing of its principal claims, and specifies tests, limitations, and failure conditions where applicable.
 
 **First Edition · Version 1.0.1 · October 2026**
 
