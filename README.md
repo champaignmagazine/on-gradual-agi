@@ -6,12 +6,12 @@
 
 *On Gradual AGI* treats artificial general intelligence as a gradual, ongoing transformation rather than a single arrival. It sets out the Multi-Plateau Framework and the Unified Gradual AGI Model. The book follows how capability becomes realized change through availability, exposure and domain conditions, and how optimization, governance, participation, evidence and feedback shape that path. Every claim carries an explicit status, and the book states what would count against it.
 
-> **First Edition, version 1.0** (October 18, 2026). Digital edition: PDF and online. The print edition is in production.
+> **First Edition, version 1.0.1** (October 20, 2026; first published as 1.0 on October 18, 2026). Digital edition: PDF and online. The print edition is in production.
 
 ## Read
 
 - **Online:** <https://champaignmagazine.github.io/on-gradual-agi/>, searchable, with chapter navigation
-- **PDF:** [On_Gradual_AGI_v1.0.pdf](https://github.com/champaignmagazine/on-gradual-agi/releases/download/v1.0/On_Gradual_AGI_v1.0.pdf) (direct download)
+- **PDF:** [On_Gradual_AGI_v1.0.1.pdf](https://github.com/champaignmagazine/on-gradual-agi/releases/download/v1.0.1/On_Gradual_AGI_v1.0.1.pdf) (direct download)
 - **All formats:** [latest release](https://github.com/champaignmagazine/on-gradual-agi/releases/latest), with the complete PDF, the Word master and the full-resolution Figure 12.1
 
 ## Contents
@@ -30,7 +30,7 @@ Each release includes `SHA256SUMS.txt`, listing the SHA-256 checksum of every fi
 
 - **macOS:** `shasum -a 256 -c SHA256SUMS.txt`
 - **Linux:** `sha256sum -c SHA256SUMS.txt`
-- **Windows (PowerShell):** `Get-FileHash On_Gradual_AGI_v1.0.pdf -Algorithm SHA256`, then compare the result with the line for that file in `SHA256SUMS.txt`
+- **Windows (PowerShell):** `Get-FileHash On_Gradual_AGI_v1.0.1.pdf -Algorithm SHA256`, then compare the result with the line for that file in `SHA256SUMS.txt`
 
 On macOS and Linux, each file you downloaded should report `OK`; files you didn't download are reported as missing, which is fine. GitHub also shows each file's checksum on the release page.
 
@@ -38,7 +38,7 @@ On macOS and Linux, each file you downloaded should report `OK`; files you didn'
 
 GitHub's **"Cite this repository"** button (from [`CITATION.cff`](CITATION.cff)) gives APA and BibTeX. In short:
 
-> W.H.L. (2026). *On Gradual AGI* (First Edition, Version 1.0). Champaign Magazine. https://github.com/champaignmagazine/on-gradual-agi
+> W.H.L. (2026). *On Gradual AGI* (First Edition, Version 1.0.1). Champaign Magazine. https://github.com/champaignmagazine/on-gradual-agi
 
 ## Code
 
@@ -55,6 +55,7 @@ Changes after v1.0 are listed in [`REVISIONS.md`](REVISIONS.md) and in the book'
 ## Repository layout
 
 ```
+book/          the current PDF (also attached to each release)
 docs/          the book as Markdown, one page per chapter (source of the online edition)
 docs/media/    figures; Figure 12.1 is also provided at full resolution
 mkdocs.yml     online-edition configuration (MkDocs Material)
@@ -62,6 +63,7 @@ mkdocs.yml     online-edition configuration (MkDocs Material)
 tools/         scripts that regenerate docs/ from the Word master
 code/          Python reference implementations of the Chapter 5, 6 and 9 calculations, with tests
 CITATION.cff   citation metadata
+.zenodo.json   archive metadata for Zenodo (DOI)
 REVISIONS.md   post-publication revision record
 LICENSE        Creative Commons Attribution 4.0 International
 ```

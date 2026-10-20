@@ -9,6 +9,7 @@ This file mirrors the book's Revision Record (Part IV). It lists every change ma
 | Version | Date | Type | Location | Change | Reason | Status effect |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1.0 | October 18, 2026 | Baseline | Whole book | First published edition | — | Statuses as recorded in the Claims and Status Register at publication |
+| 1.0.1 | October 20, 2026 | Correction | Copyright and License | Cover credit names the image tool and credits the design: “Cover art: design by W.H.L.; images by ChatGPT Images 2.5. Licensed under CC BY 4.0.” | More precise attribution | None |
 
 ## Before 1.0
 

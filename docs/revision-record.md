@@ -8,6 +8,7 @@ This record lists every change made to the book after its first publication as v
 
 **Where to find the current record.** The online version at [https://champaignmagazine.github.io/on-gradual-agi/revision-record/](https://champaignmagazine.github.io/on-gradual-agi/revision-record/) is maintained between printings. Each printing reproduces the record as of its date.
 
-| Version | Date             | Type     | Location   | Change                  | Reason | Status effect                                                         |
-|---------|------------------|----------|------------|-------------------------|--------|-----------------------------------------------------------------------|
-| 1.0     | October 18, 2026 | Baseline | Whole book | First published edition | —      | Statuses as recorded in the Claims and Status Register at publication |
+| Version | Date             | Type       | Location              | Change                                                                                                                                           | Reason                   | Status effect                                                         |
+|---------|------------------|------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------|
+| 1.0     | October 18, 2026 | Baseline   | Whole book            | First published edition                                                                                                                          | —                        | Statuses as recorded in the Claims and Status Register at publication |
+| 1.0.1   | October 20, 2026 | Correction | Copyright and License | Cover credit names the image tool and credits the design: “Cover art: design by W.H.L.; images by ChatGPT Images 2.5. Licensed under CC BY 4.0.” | More precise attribution | None                                                                  |
